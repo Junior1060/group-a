@@ -1,1 +1,21 @@
-Write down your ideas for apss here
+#Ideas 
+
+- when opening the website, the user should see a real picture instead of the AI picture  
+e.g. the APSS building from outside, the entrance or the employees
+
+- First thing the visitor sees should be their Logo one phrase or statement what they do and real picture  
+
+- the icons unter the AI picture are no buttons, you cant click on them to go to the topic they show, aldough the topics are very important for visitors    
+
+- most important information for visitors should be acesseble with one click  
+e.g. get support, getting tested, report a needle, volunteer, ...  
+
+- remove "FAQ" and "Contact us" from the navigation, instead highlight it more in footer 
+
+- add a page called "Learn" or "Research" with pictures and informative text  
+
+- site for information about Events and current projects  
+
+- show news about events on "home", user should be able to click on it to read more   
+
+- the numbers shown at the end of "home" could stay because the highlight the impact of the organization  
