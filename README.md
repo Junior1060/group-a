@@ -13,30 +13,22 @@ Marie Basler
 
 AIDS Programs South Saskatchewan (APSS) is a Regina-based non-profit organization providing harm reduction, needle exchange, testing, education, outreach, and support related to HIV/AIDS and Hepatitis C. 
 
-The client believes that the current website does not clearly communicate community impact, research, projects and events. The site should feel more authentic, welcoming, and easier to use.
+The client believes that the current website does not clearly communicate community impact, research, projects and events. Therefore our goal is to dedign an additional site fot these topics. The site should feel authentic, welcoming, and easy to use.
 
 
 ## 3. Business Need / Opportunity
 
-APSS needs a clear, trustworthy, and accessible website that helps visitors find relevant services and information.
-
-The redesign should prioritize urgent tasks, use authentic local visuals, present research in plain language, and use respectful, stigma-free communication.
+APSS needs a clear, trustworthy, and accessible website that helps visitors find relevant information.
 
 
 ## 4. North Star
 
-Create a welcoming and accessible digital entry point that helps people quickly find relevant APSS support, information, events, and research.
+Create a welcoming and accessible digital entry point that helps people quickly find relevant APSS information, projects, and research.
 
 
 ## 5. Carryover Customers
 
-Important groups include:
-
-- People seeking testing, needle exchange, naloxone, or harm-reduction services
-- Community members reporting discarded needles
-- Schools and organizations requesting education sessions
-- Partners, researchers, donors, volunteers, and event participants
-
+Existing APSS audiences with an interest in its research, including research collaborators, community partners and funders. The website should give these audiences clear access to projects, publications, posters, and updates while maintaining easy navigation between the three websites.  
 
 ## 6. Assumptions and Constraints
 
@@ -51,6 +43,6 @@ Important groups include:
 
 - The solution must be developed within the timeline 
 - The clients exact requirements are still developing
-- The project is done by five students
+- The project is done by students
 - Images must be authentic and used with consent
 - The final design must be accessible and realistic 
