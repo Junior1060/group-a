@@ -2,9 +2,9 @@
 
 ## 1. Team Members
 
+- Chop Peter Kur
 - Samuel Willis
 - Muhammad Mouzzan
-- Chop Peter Kur
 - Oluwateniola Fayokun
 - Marie Basler
 
