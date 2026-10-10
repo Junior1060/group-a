@@ -24,7 +24,7 @@
 | --- | --- |
 | Who visits the research site most? | Community members looking for services, then funders and partners. |
 | Who will update the WordPress site after December 2? | Not recorded. Ask at the next check-in. |
-| Are the articles and posters ready in digital form? | Not recorded. Ask at the next check-in. |
+| Are the articles and posters ready in digital form? | Some are digital, others exist only on paper. The paper items will need scanning before they can go on the site. |
 | Are there branding or accessibility guidelines? | Branding direction below. For language access, a WordPress translation plugin should offer French, Spanish and Portuguese. |
 
 ## Branding direction from Erin
@@ -43,5 +43,6 @@
 | Update the user story map to cover About, Get Involved and News & Updates. | TBD | Oct 21 |
 | Decide as a team whether the main APSS site joins the scope, then confirm with Erin. | TBD | Next check-in |
 | Update README assumptions if the main site is added to the scope. | TBD | After decision |
-| Ask Erin who maintains WordPress after handoff, and whether articles and posters are digital. | TBD | Next check-in |
+| Ask Erin who maintains WordPress after handoff. | TBD | Next check-in |
+| Get a list of the paper-only articles and posters and agree who scans them. | TBD | Oct 21 |
 | Plan for a WordPress translation plugin (French, Spanish, Portuguese). | TBD | Nov 4 |
