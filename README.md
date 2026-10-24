@@ -52,3 +52,8 @@ The site should feel authentic, welcoming and easy to use.
 - **Accessibility:** The design must meet accessibility standards (for example, WCAG 2.1 AA) for a diverse audience.
 - **Consistency across sites:** The research site must feel connected to the main APSS website and reportneedles.ca.
 - **Evolving requirements:** The client's requirements are still developing, so the design must adapt after each check-in.
+
+## 7. High-Fidelity Prototype
+
+- **Figma prototype:** [hi-fi-prototype](https://www.figma.com/design/RnJV3lnXo1joUnyj6HKV0z/hi-fi-prototype)
+- **PDF export and Figma file:** design/prototypes/hifi/
